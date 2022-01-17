@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.82.191:4000/repository/td-proj-release/</url>
+	      <url>http://18.207.196.111:4000/repository/td-proj-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.82.191:4000/repository/td-proj-snapshot/</url>
+	      <url>http://18.207.196.111:4000/repository/td-proj-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
